@@ -1,0 +1,202 @@
+[
+    {
+      "name": "Taylor Swift",
+      "image": "https://example.com/taylor_swift.jpg",
+      "youtubeVideoId": "video_id_for_taylor_swift",
+      "age": 33,
+      "country": "United States",
+      "description": "Taylor Swift is a globally recognized singer-songwriter from the United States, known for her narrative songwriting, catchy pop hooks, and numerous awards.",
+      "songs": [
+        "Blank Space",
+        "Love Story",
+        "Shake It Off",
+        "You Belong with Me",
+        "Wildest Dreams",
+        "I Knew You Were Trouble",
+        "Delicate",
+        "Style",
+        "22",
+        "Bad Blood"
+      ]
+    },
+    {
+      "name": "Ed Sheeran",
+      "image": "https://example.com/ed_sheeran.jpg",
+      "youtubeVideoId": "video_id_for_ed_sheeran",
+      "age": 31,
+      "country": "United Kingdom",
+      "description": "Ed Sheeran is a British singer-songwriter celebrated for his soulful voice, heartfelt lyrics, and ability to blend pop, folk, and R&B influences.",
+      "songs": [
+        "Shape of You",
+        "Thinking Out Loud",
+        "Perfect",
+        "Castle on the Hill",
+        "Photograph",
+        "Galway Girl",
+        "The A Team",
+        "Happier",
+        "Don't",
+        "I Don't Care"
+      ]
+    },
+    {
+      "name": "Beyoncé",
+      "image": "https://example.com/beyonce.jpg",
+      "youtubeVideoId": "video_id_for_beyonce",
+      "age": 40,
+      "country": "United States",
+      "description": "Beyoncé is an iconic performer from the United States, known for her powerful vocals, electrifying stage presence, and influence on contemporary music and culture.",
+      "songs": [
+        "Single Ladies (Put a Ring on It)",
+        "Crazy in Love",
+        "Halo",
+        "Formation",
+        "Drunk in Love",
+        "Irreplaceable",
+        "Love On Top",
+        "If I Were a Boy",
+        "Run the World (Girls)",
+        "Sorry"
+      ]
+    },
+    {
+      "name": "Drake",
+      "image": "https://example.com/drake.jpg",
+      "youtubeVideoId": "video_id_for_drake",
+      "age": 36,
+      "country": "Canada",
+      "description": "Drake is a Canadian rapper, singer, and songwriter recognized for his introspective lyrics, innovative flows, and chart-topping hits.",
+      "songs": [
+        "Hotline Bling",
+        "God's Plan",
+        "In My Feelings",
+        "One Dance",
+        "Started From the Bottom",
+        "Nice for What",
+        "Hold On, We're Going Home",
+        "Nonstop",
+        "Passionfruit",
+        "Too Good"
+      ]
+    },
+    {
+      "name": "Ariana Grande",
+      "image": "https://example.com/ariana_grande.jpg",
+      "youtubeVideoId": "video_id_for_ariana_grande",
+      "age": 29,
+      "country": "United States",
+      "description": "Ariana Grande is a powerhouse vocalist from the United States, known for her impressive vocal range, pop anthems, and versatile musical style.",
+      "songs": [
+        "Thank U, Next",
+        "7 Rings",
+        "Side to Side",
+        "Problem",
+        "No Tears Left to Cry",
+        "Into You",
+        "Break Free",
+        "One Last Time",
+        "Bang Bang",
+        "God Is a Woman"
+      ]
+    },
+    {
+      "name": "Kanye West",
+      "image": "https://example.com/kanye_west.jpg",
+      "youtubeVideoId": "video_id_for_kanye_west",
+      "age": 45,
+      "country": "United States",
+      "description": "Kanye West is a visionary artist, producer, and fashion designer from the United States, known for his groundbreaking music, bold statements, and artistic vision.",
+      "songs": [
+        "Stronger",
+        "Heartless",
+        "Gold Digger",
+        "Jesus Walks",
+        "Power",
+        "All of the Lights",
+        "Black Skinhead",
+        "Famous",
+        "Love Lockdown",
+        "Runaway"
+      ]
+    },
+    {
+      "name": "Rihanna",
+      "image": "https://example.com/rihanna.jpg",
+      "youtubeVideoId": "video_id_for_rihanna",
+      "age": 35,
+      "country": "Barbados",
+      "description": "Rihanna is a global pop icon from Barbados, acclaimed for her distinctive voice, trendsetting style, and hits that span multiple genres.",
+      "songs": [
+        "Umbrella",
+        "Diamonds",
+        "Work",
+        "We Found Love",
+        "Love on the Brain",
+        "Stay",
+        "Rude Boy",
+        "Only Girl (In the World)",
+        "S&M",
+        "Disturbia"
+      ]
+    },
+    {
+      "name": "Billie Eilish",
+      "image": "https://example.com/billie_eilish.jpg",
+      "youtubeVideoId": "video_id_for_billie_eilish",
+      "age": 21,
+      "country": "United States",
+      "description": "Billie Eilish is a young and innovative singer-songwriter from the United States, known for her haunting vocals, genre-defying sound, and deeply personal lyrics.",
+      "songs": [
+        "Bad Guy",
+        "Ocean Eyes",
+        "When the Party's Over",
+        "Lovely",
+        "Bury a Friend",
+        "Everything I Wanted",
+        "My Future",
+        "Therefore I Am",
+        "You Should See Me in a Crown",
+        "Idontwannabeyouanymore"
+      ]
+    },
+    {
+      "name": "Post Malone",
+      "image": "https://example.com/post_malone.jpg",
+      "youtubeVideoId": "video_id_for_post_malone",
+      "age": 27,
+      "country": "United States",
+      "description": "Post Malone is a versatile artist from the United States, blending hip-hop, pop, and rock influences, recognized for his unique vocal style, infectious melodies, and chart-topping hits.",
+      "songs": [
+        "Rockstar",
+        "Circles",
+        "Congratulations",
+        "White Iverson",
+        "Sunflower",
+        "Better Now",
+        "Goodbyes",
+        "Wow.",
+        "Saint-Tropez",
+        "Go Flex"
+      ]
+    },
+    {
+      "name": "Lady Gaga",
+      "image": "https://example.com/lady_gaga.jpg",
+      "youtubeVideoId": "video_id_for_lady_gaga",
+      "age": 36,
+      "country": "United States",
+      "description": "Lady Gaga is an innovative pop sensation from the United States, known for her theatrical performances, boundary-pushing music videos, and empowerment anthems.",
+      "songs": [
+        "Bad Romance",
+        "Shallow",
+        "Poker Face",
+        "Born This Way",
+        "Just Dance",
+        "Telephone",
+        "Alejandro",
+        "The Edge of Glory",
+        "Rain on Me",
+        "Million Reasons"
+      ]
+    }
+]
